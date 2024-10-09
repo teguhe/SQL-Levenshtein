@@ -1,4 +1,4 @@
-Fungsi Levenshtein
+# Fungsi LEVENSHTEIN
 
 Author     : Teguh Prasetyo
 Language   : SQL, kompatibel dengan mySQL dan MariaDB
