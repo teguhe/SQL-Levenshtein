@@ -6,7 +6,8 @@ Date       : 1 Agustus 2023
 
 Fungsi levenshtein digunakan untuk mencari prosentase kemiripan antara dua string, kompatibel dengan MySQL dan MariaDB
 
-Petunjuk penggunaan
+# PETUNJUK PENGGUNAAN
+
 - jalankan "function levenshtein.sql" untuk membuat fungsi levenshtein
 - jalankan "function levenshtein ratio.sql" untuk membuat fungsi levenshtein_ratio
 - tampilkan kemiripan data antara dua string dengan menjalankan perintah seperti contoh "SELECT levenshtein_ratio('teguh prasetyo','teguh prasetya') similiarity"
