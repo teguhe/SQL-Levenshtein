@@ -1,0 +1,1 @@
+SELECT levenshtein_ratio('teguh prasetyo','teguh prasetya') similiarity
