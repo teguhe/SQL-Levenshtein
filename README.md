@@ -20,3 +20,8 @@ Petunjuk penggunaan
       FROM (SELECT nip, nama_lengkap from temp_asn LIMIT 20) A
       LEFT JOIN master B ON A.nip=B.nip;
   "
+
+# REFERENSI
+
+- https://en.wikipedia.org/wiki/Levenshtein_distance
+- https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0#:~:text=The%20Levenshtein%20distance%20for%20strings%20A%20and%20B%20can%20be
